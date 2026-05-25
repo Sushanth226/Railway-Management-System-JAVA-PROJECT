@@ -1,0 +1,63 @@
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.project
+.classpath
+.settings/
+*.swp
+*.swo
+*~
+.DS_Store
+.vscode/
+
+# Build
+target/
+build/
+out/
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# Maven
+dependency-reduced-pom.xml
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+.flattened-pom.xml
+
+# Gradle
+.gradle/
+gradle-app.setting
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+db.log
+
+# Logs
+*.log
+logs/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Environment
+.env
+.env.local
+config.properties.local
+
+# Miscellaneous
+*.tmp
+*.bak
+*.backup
+node_modules/
+dist/
